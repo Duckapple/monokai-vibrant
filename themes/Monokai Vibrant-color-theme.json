@@ -22,7 +22,7 @@
         "string.comment"
       ],
       "settings": {
-        "foreground": "#5c6370",
+        "foreground": "#46c600",
         "fontStyle": "italic"
       }
     },
@@ -35,21 +35,21 @@
     },
     {
       "name": "js template-expression",
-      "scope": "punctuation.definition.template-expression.begin.js,punctuation.definition.template-expression.end.js,punctuation.definition.template-expression.begin.ts,punctuation.definition.template-expression.end.ts",
+      "scope": "punctuation.definition.template-expression.begin.js,punctuation.definition.template-expression.end.js,punctuation.definition.template-expression.begin.ts,punctuation.definition.template-expression.end.ts,punctuation.definition.template-expression.begin.tsx,punctuation.definition.template-expression.end.tsx,punctuation.definition.template-expression.begin.jsx,punctuation.definition.template-expression.end.jsx",
       "settings": {
         "foreground": "#FF3F4F"
       }
     },
     {
       "name": "TemplateString",
-      "scope": "string.template.js",
+      "scope": "string.template.js, string.template.ts, string.template.tsx, string.template.jsx",
       "settings": {
         "foreground": "#E5A422"
       }
     },
     {
       "name": "TemplateString",
-      "scope": "meta.template.expression.js",
+      "scope": "meta.template.expression.js, meta.template.expression.ts, meta.template.expression.jsx, meta.template.expression.tsx",
       "settings": {
         "foreground": "#f8f8f0"
       }
@@ -121,16 +121,14 @@
         "keyword.operator.constructor"
       ],
       "settings": {
-		"foreground": "#FF3F4F",
-		"fontStyle": "italic"
+		"foreground": "#FF3F4F"
       }
     },
     {
       "name": "Keyword Operator",
       "scope": "keyword.operator",
       "settings": {
-		"foreground": "#FF3F4F",
-		"fontStyle": "italic"
+		"foreground": "#FF3F4F"
       }
     },
     {

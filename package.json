@@ -3,21 +3,21 @@
     "displayName": "Monokai Vibrant",
     "description": "A very dark and overly vibrant Monokai theme with italicized keywords and operators.",
     "version": "0.5.1",
-    "publisher": "s3gf4ult",
+    "publisher": "Duckapple",
     "icon": "images/icon.png",
-    "author": "Dylan Marsh <dylan@knoware.co>",
+    "author": "Simon Green <simon-green.dev>",
     "license": "MIT",
     "galleryBanner": {
         "color": "#F5B800"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/dylantmarsh/monokai-vibrant.git"
+        "url": "https://github.com/Duckapple/monokai-vibrant.git"
     },
     "bugs": {
-        "url": "https://github.com/dylantmarsh/monokai-vibrant/issues"
+        "url": "https://github.com/Duckapple/monokai-vibrant/issues"
     },
-    "homepage": "https://github.com/dylantmarsh/monokai-vibrant/blob/master/README.md",
+    "homepage": "https://github.com/Duckapple/monokai-vibrant/blob/master/README.md",
     "engines": {
         "vscode": "^1.15.0"
     },
