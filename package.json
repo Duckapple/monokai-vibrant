@@ -1,14 +1,15 @@
 {
     "name": "monokai-vibrant",
     "displayName": "Monokai Vibrant",
-    "description": "A very dark and overly vibrant Monokai theme with italicized keywords and operators.",
-    "version": "0.5.1",
+    "description": "A very dark and overly vibrant Monokai theme.",
+    "version": "0.5.2",
     "publisher": "Duckapple",
     "icon": "images/icon.png",
     "author": "Simon Green <simon-green.dev>",
     "license": "MIT",
     "galleryBanner": {
-        "color": "#F5B800"
+        "color": "#16171d",
+        "theme": "dark"
     },
     "repository": {
         "type": "git",
@@ -25,10 +26,10 @@
         "Themes"
     ],
     "keywords": [
-        "Theme",
-        "Vibrant",
-        "Monokai",
-        "Operator"
+        "monokai",
+        "vibrant",
+        "dark",
+        "colorful"
     ],
     "contributes": {
         "themes": [

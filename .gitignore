@@ -1,2 +1,4 @@
 .DS_Store
 npm-debug.log.*
+*.vsix
+node_modules
